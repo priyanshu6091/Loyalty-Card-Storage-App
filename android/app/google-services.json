@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317287954330",
+    "project_id": "externalprac-8f36e",
+    "storage_bucket": "externalprac-8f36e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317287954330:android:23f93bdf3635c92b91ec23",
+        "android_client_info": {
+          "package_name": "com.example.externalprac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0-3wBp8lH5II0YJALPuU8hf7d5hrC4I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
